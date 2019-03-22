@@ -60,7 +60,7 @@
 *[brandon]*\
 &nbsp; UML, UML, will you ever be useful?\
 *[alex]*\
-&nbsp; State Machine and Timing, very very frightening me (edited) \
+&nbsp; State Machine and Timing, very very frightening me \
 *[brandon]*\
 &nbsp; Big data, big data, big data, big data (big data) mongo db (it's web scalllleeeeeeee)\
 *[alex]*\
